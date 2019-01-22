@@ -7,8 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My app will be one that allows a user to search for a location. After searching they will be given a list of popular tourist attractions for that location.They will be able to select attractions, events, or restaurants to add to an iternary. The user will be able to login in and save an iternerary. They will also see the average cost of restaurants and attractions for that location to help them budget for their trip. 
-
+I am building a vaction planning app that will allow users to sign up and search for a destination. They will be given a list of popular tourist attractions and restaurants as well average prices for each place.They will also get map results so they can plan each day around specific areas to get the most out of their trip. They will then be able to add places to their itinerary that meet their preferences. This will help people plan their trip so they have a good idea of what they can do and what will fit in their budget. 
 ### Features
 - User Login: Create account to save and edit itnerary 
 - Search Location: Search page that redirects to results
