@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-[GitHub- Mitch Dominici](https://github.com/kahuna52)
+[GitHub - Mitch Dominici](https://github.com/kahuna52)
  
 ### LinkedIn
 [LinkedIn - Mitch Dominici](https://www.linkedin.com/feed/)
