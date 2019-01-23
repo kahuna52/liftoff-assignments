@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub](https://github.com/kahuna52)
  
 ### LinkedIn
 [LinkedIn](https://www.linkedin.com/feed/)
