@@ -6,5 +6,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ## Submission Instructions
 
-### Project Repositoryhttps://github.com/kahuna52?tab=repositories
+### Project Repository
 [Liftoff Project](https://github.com/kahuna52/Vacation-Liftoff)
