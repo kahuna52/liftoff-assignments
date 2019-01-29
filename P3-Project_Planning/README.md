@@ -21,3 +21,4 @@ For this assignment, you'll create some initial plans for your project.
 
 [I want to see a list of places for the location that I searched for](https://github.com/kahuna52/liftoff-assignments/blob/master/P3-Project_Planning/Results.PNG)
 
+[I want to log into my account and see an itinerary for all the locations that I added](https://github.com/kahuna52/liftoff-assignments/blob/master/P3-Project_Planning/Intinerary.PNG)
