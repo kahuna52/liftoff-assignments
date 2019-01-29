@@ -18,3 +18,6 @@ For this assignment, you'll create some initial plans for your project.
 [Liftoff Project](https://github.com/kahuna52/Vacation-Liftoff)
 
 [I want to be able to search for a vacation destination](https://github.com/kahuna52/liftoff-assignments/blob/master/P3-Project_Planning/Search.PNG)
+
+[I want to see a list of places for the location that I searched for](https://github.com/kahuna52/liftoff-assignments/blob/master/P3-Project_Planning/Results.PNG)
+
